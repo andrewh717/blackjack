@@ -1,4 +1,5 @@
 # blackjack
+This is a simple game of Blackjack that I made in my freshman year Computer Science class.
 ## How to run
 Make sure you have Java installed. Clone/Download this repo and navigate to it in the command line. Run "java Blackjack.java" to begin playing.
 
